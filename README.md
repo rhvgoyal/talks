@@ -8,8 +8,8 @@ workshop, and invited technical talks over the years.
 - **Overlayfs filesystem architecture and SELinux support**  
   Vault 2017, Linux Storage and Filesystems Conference  
   Cambridge, MA, USA  
-  [slides](overlayfs-vault-2017/overlayfs-and-containers-presentation-valult-2017.pdf) ·
-  [details](overlayfs-vault-2017/)
+  [slides](vault-2017-overlayfs/overlayfs-and-containers-presentation-valult-2017.pdf) ·
+  [details](vault-2017-overlayfs/)
 
 <!-- Add new talks above this line -->
 
