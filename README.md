@@ -13,8 +13,14 @@ workshop, and invited technical talks over the years.
 - **Overlayfs filesystem architecture and SELinux support**  
   Vault 2017, Linux Storage and Filesystems Conference  
   Cambridge, MA, USA  
-  [slides](vault-2017-overlayfs/overlayfs-and-containers-presentation-valult-2017.pdf) ·
   [details](vault-2017-overlayfs/)
+
+<br>
+  
+- **Making Kexec/Kdump work with Secureboot**  
+  Linux Plumbers Conference, 2013
+  New Orleans, Louisiana, USA  
+  [details](lpc-2013/)
 
 
 <!-- Add new talks above this line -->
