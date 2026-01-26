@@ -1,4 +1,4 @@
-# Long Live Asynchronous Page Fault!
+# Kdump: Smarter, Easier, Trustier
 
 - **Event:** Ottawa Linux Symposium, 2007
 - **Location:** Ottawa, Canada
