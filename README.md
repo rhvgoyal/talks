@@ -50,6 +50,13 @@ workshop, and invited technical talks over the years.
   Ottawa, Canada
   [details](ols-2007/)
 
+<br>
+
+- **Debugging Linux Kernel Using Kdump**  
+  Ottawa Linux Symposium, 2006
+  Ottawa, Canada
+  [details](ols-2006/)
+
 
 <!-- Add new talks above this line -->
 
