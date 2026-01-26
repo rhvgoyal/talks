@@ -57,6 +57,13 @@ workshop, and invited technical talks over the years.
   Ottawa, Canada
   [details](ols-2006/)
 
+<br>
+
+- **Kdump, A Kexec-based Kernel Crash Dumping Mechanism**  
+  Ottawa Linux Symposium, 2005
+  Ottawa, Canada
+  [details](ols-2005/)
+
 
 <!-- Add new talks above this line -->
 
