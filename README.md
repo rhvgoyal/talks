@@ -31,6 +31,13 @@ workshop, and invited technical talks over the years.
 
 <br>
 
+- **How to design IO Controller in Linux**  
+  IO Controller Mini Summit, 2009
+  Tokyo, Japan 
+  [details](io-controller-mini-summit-2009/)
+
+<br>
+
 - **Block I/O Controller and Bio Tracking**  
   Linux Storage and Filesystems Workshop, 2009
   San Francisco, CA, USA  
