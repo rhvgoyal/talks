@@ -22,6 +22,20 @@ workshop, and invited technical talks over the years.
   New Orleans, Louisiana, USA  
   [details](lpc-2013/)
 
+<br>
+
+- **CFQ vs Deadline I/O Scheduler**  
+  Linux Storage and Filesystems Summit, 2010
+  Boston, MA, USA  
+  [details](lsf-2010/)
+
+<br>
+
+- **Block I/O Controller and Bio Tracking**  
+  Linux Storage and Filesystems Workshop, 2009
+  San Francisco, CA, USA  
+  [details](lsf-2009/)
+
 
 <!-- Add new talks above this line -->
 
