@@ -43,6 +43,13 @@ workshop, and invited technical talks over the years.
   San Francisco, CA, USA  
   [details](lsf-2009/)
 
+<br>
+
+- **Kdump: Smarter, Easier, Trustier**  
+  Ottawa Linux Symposium, 2007
+  Ottawa, Canada
+  [details](ols-2007/)
+
 
 <!-- Add new talks above this line -->
 
