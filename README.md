@@ -58,6 +58,14 @@ workshop, and invited technical talks over the years.
 
 <br>
 
+- **What's the Fuss About Fastboot and New Kernel Crash Dumping Mechanism**  
+  Red Hat Summit, 2008
+  Boston, MA, USA  
+  [details](rhsummit-2008/)
+
+<br>
+
+
 - **Kdump: Smarter, Easier, Trustier**  
   Ottawa Linux Symposium, 2007
   Ottawa, Canada
