@@ -30,6 +30,13 @@ workshop, and invited technical talks over the years.
 
 <br>
 
+- **Tuning the Red Hat Enterprise Linux 6 I/O Subsystem & Using I/O cGroups**  
+  Red Hat Summit, 2011
+  Boston, MA, USA  
+  [details](rhsummit-2011/)
+
+<br>
+
 - **CFQ vs Deadline I/O Scheduler**  
   Linux Storage and Filesystems Summit, 2010
   Boston, MA, USA  

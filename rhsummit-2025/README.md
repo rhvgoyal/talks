@@ -1,4 +1,4 @@
-# Long Live Asynchronous Page Fault!
+# Establishing trust with confidential VMs
 
 - **Event:** Red Hat Summit 2025
 - **Location:** Boston, MA, USA
