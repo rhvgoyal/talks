@@ -4,6 +4,12 @@ This repository contains slides and supporting materials from my conference,
 workshop, and invited technical talks over the years.
 
 ## Talks
+- **Establishing trust with confidential VMs**  
+  Red Hat Summit 2025
+  [details](rhsummit-2025/)  
+
+<br>
+
 - **Long Live Asynchronous Page Fault**  
   KVM Forum 2020
   [details](kvm-forum-2020/)  
